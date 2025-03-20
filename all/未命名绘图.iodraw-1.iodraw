@@ -33,7 +33,7 @@
             <mxPoint x="256" y="114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gr0Zq-AI6Quabplr0KPa-186" value="Projects" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=-30;" parent="Gr0Zq-AI6Quabplr0KPa-185" vertex="1">
+        <mxCell id="Gr0Zq-AI6Quabplr0KPa-186" value="react" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=-30;" parent="Gr0Zq-AI6Quabplr0KPa-185" vertex="1">
           <mxGeometry x="0.2571" relative="1" as="geometry">
             <mxPoint x="3" y="-14" as="offset" />
           </mxGeometry>
@@ -47,7 +47,7 @@
             <mxPoint x="251" y="104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gr0Zq-AI6Quabplr0KPa-189" value="Goals" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="Gr0Zq-AI6Quabplr0KPa-188" vertex="1" connectable="0">
+        <mxCell id="Gr0Zq-AI6Quabplr0KPa-189" value="vue" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="Gr0Zq-AI6Quabplr0KPa-188" vertex="1" connectable="0">
           <mxGeometry x="-0.1124" y="-1" relative="1" as="geometry">
             <mxPoint x="24" y="-12" as="offset" />
           </mxGeometry>
