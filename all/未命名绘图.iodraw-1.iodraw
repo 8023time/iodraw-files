@@ -7,7 +7,7 @@
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-179" value="前端学习路线图" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=#D4E1F5;strokeWidth=1;fillColor=none;fontFamily=Comic Sans MS;fontSize=9;swimlaneLine=0;dashed=1;collapsible=0;" parent="1" vertex="1">
           <mxGeometry x="84" y="80" width="659" height="441" as="geometry" />
         </mxCell>
-        <mxCell id="Gr0Zq-AI6Quabplr0KPa-180" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;MIND&lt;br&gt;MAPPING&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
+        <mxCell id="Gr0Zq-AI6Quabplr0KPa-180" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;前端&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="273" y="172" width="108" height="53" as="geometry" />
         </mxCell>
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-181" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
@@ -190,20 +190,10 @@
             <mxPoint x="-2" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gr0Zq-AI6Quabplr0KPa-221" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/basicset/tick_64.png;strokeColor=#000099;strokeWidth=2;fillColor=none;fontFamily=Comic Sans MS;fontSize=10;rotation=28;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
-          <mxGeometry x="157" y="88" width="17" height="17" as="geometry" />
-        </mxCell>
-        <mxCell id="Gr0Zq-AI6Quabplr0KPa-222" value="" style="endArrow=classic;html=1;curved=1;sourcePerimeterSpacing=10;strokeColor=#999900;targetPerimeterSpacing=7;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-186" target="Gr0Zq-AI6Quabplr0KPa-221" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="345" y="550" as="sourcePoint" />
-            <mxPoint x="325" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="338" y="11" />
-            </Array>
+        <mxCell id="Gr0Zq-AI6Quabplr0KPa-223" style="jumpStyle=arc;html=1;endArrow=classicThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=none;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=10;rounded=0;startSize=8;endSize=8;curved=1;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-209" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172.07554645979917" y="102.23865872855208" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Gr0Zq-AI6Quabplr0KPa-223" style="jumpStyle=arc;html=1;endArrow=classicThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=none;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=10;rounded=0;startSize=8;endSize=8;curved=1;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-209" target="Gr0Zq-AI6Quabplr0KPa-221" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-224" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="162" y="253" height="1" as="geometry" />
